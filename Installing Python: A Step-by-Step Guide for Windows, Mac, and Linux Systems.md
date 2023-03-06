@@ -37,12 +37,14 @@ To install Python on Linux, follow these simple steps:
 
 2. Type the following command to update the package list:
 
-```sudo apt update
+```
+sudo apt update
 ```
 
 3. Type the following command to install Python:
 
-```sudo apt install python3
+```
+sudo apt install python3
 ```
 
 4. Once the installation is complete, type the following command to check the Python version:
