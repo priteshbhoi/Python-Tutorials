@@ -1,5 +1,7 @@
 Python is a widely used high-level programming language that is popular for its simplicity, versatility, and ease of learning. If you are new to programming or want to start learning Python, the first step is to install it on your system. In this article, we will guide you through the process of installing Python on your Windows, Mac, or Linux operating system.
 
+Python is a popular and versatile high-level programming language used by developers, data scientists, and researchers worldwide. It is a language known for its simplicity, readability, and ease of use. If you are new to programming or looking to learn Python, the first step is to install it on your system. In this article, we will provide you with a step-by-step guide on how to install Python on your Windows, Mac, or Linux operating system. By following these simple steps, you will be ready to start exploring Python and all its amazing features in no time.
+
 # Installing Python on Windows
 To install Python on Windows, follow these simple steps:
 
