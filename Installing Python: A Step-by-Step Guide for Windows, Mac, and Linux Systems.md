@@ -49,7 +49,8 @@ sudo apt install python3
 
 4. Once the installation is complete, type the following command to check the Python version:
 
-```python3 --version
+```
+python3 --version
 ```
 
 Congratulations! You have successfully installed Python on your Linux system.
